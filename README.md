@@ -34,9 +34,9 @@ The Graduate Student Handbook is an all-in-one guide to helpful information for 
 The aim of the supervisory meeting is to ensure that students are meeting their milestones. Supervisory meetings must be scheduled once a year.
 
 ##### Q: What is the typical format of the supervisory meeting?
-Typically, the student gives a brief presentation in which they report the completion of their milestones, the status of research, and plans for the rest of the academic program.
-The presentation is *at most* 20 minutes long.
-Committee member(s) may ask clarifying questions to better assess the progress of the student.
+- Typically, the student gives a brief presentation in which they report the completion of their milestones, the status of research, and plans for the rest of the academic program.
+- The student presentation is limited to 20 minutes.
+- Committee member(s) may ask clarifying questions to better assess the progress of the student.
 
 ##### Q: What is the typical content of the student presentation?
 The typical content includes:
@@ -114,7 +114,7 @@ The candidate prepares a thesis proposal.
 - The proposal should be 20-30 pages in length (rest as above), given to the committee 4 weeks before the examination. Ahead of the examination, the supervisory committee may say that the report is not ready to be defended and ask for it to be improved before a examination is scheduled; concrete, actionable and constructive criticism must be given to allow the student to perform these changes.
 
 ##### Q: Are results needed at this point?
-- No, there is no need for any results to have been obtained before a part II is defended. The committee's goal is to help steer the candidate's work *before* they undertake the actual research. (Having too many results already could be taken as a failure on the supervisory committee’s part to have timed things properly.)
+No, there is no need for any results to have been obtained before a part II is defended. The committee's goal is to help steer the candidate's work *before* they undertake the actual research. (Having too many results already could be taken as a failure on the supervisory committee’s part to have timed things properly.)
 
 ##### Q: What is the typical format of the examination?
 - The student presentation is limited to 20 minutes.
