@@ -13,7 +13,7 @@ This FAQ is maintained by the Graduate Curriculum and Policy Committee (GCPC). C
 ## Regulations
 
 ##### Q: Who maintains the regulations? Can I suggest changes to it?
-The regulations are maintained by the Graduate Curriculum and Policy Committee (GCPC). Changes to the regulations can be suggested to the Associate Chair of Graduate Studies, i.e., the Chair of the GCPC (currently: Dr. Jacques Carette). The GCPC will investigate these suggestions if deemed relevant by the Chair and prepare a proposal to the Department. Evantually, it is the Department that has to approve changes with simple majority.
+The regulations are maintained by the Graduate Curriculum and Policy Committee (GCPC). Changes to the regulations can be suggested to the Associate Chair of Graduate Studies, i.e., the Chair of the GCPC (currently: [Dr. Jacques Carette](https://www.eng.mcmaster.ca/cas/faculty/dr-jacques-carette/)). The GCPC will investigate these suggestions if deemed relevant by the Chair and prepare a proposal to the Department. Evantually, it is the Department that has to approve changes with simple majority.
 
 ##### Q: Where do I find the regulations?
 The current regulations are available here:
@@ -64,7 +64,7 @@ The comprehensive examination assesses the the candidate's research skills and p
 The Chair is a member of the supervisory committee (who is not a supervisor) and should be settled ahead of the defense.
 
 ##### Q: Who assigns the Chair?
-The Comprehensive I chair is nominated by the Chair of the GCPC. (Currently: [Jacques Carette](https://www.eng.mcmaster.ca/cas/faculty/dr-jacques-carette/).) ***[TODO: Jacques validate please]***
+The Comprehensive I chair is nominated by the Chair of the GCPC. (Currently: [Dr. Jacques Carette](https://www.eng.mcmaster.ca/cas/faculty/dr-jacques-carette/).) ***[TODO: Jacques validate please]***
 
 ##### Q: What is the role of the chair?
 The role of the chair is to ensure that the process is followed properly (but also that no one is being overly aggressive in their questions, and that the questioning seems to be thorough; if the student never answers "I don’t know" to a question, it's probably not thorough enough.) The Chair may ask questions, but is not expected to. It would be improper for the Chair to ask "tough" questions.
