@@ -24,7 +24,7 @@ The current regulations are available here:
 - MEng: https://www.cas.mcmaster.ca/cas/0files/archive_reg/reg_meng_cs.pdf
 
 ##### Q: What is the Graduate Student Handbook?
-The Graduate Student Handbook is an all-in-one guide to helpful information for graduate students and other researchers in the Department. It includes department-specific and general information. It is available here: https://www.eng.mcmaster.ca/app/uploads/2024/08/2024-25_CAS_GradHandbook_Useful_Info_Updated.pdf.
+The Graduate Student Handbook is an all-in-one guide to helpful information for graduate students and other researchers in the Department. It includes department-specific and general information. It is available here: https://www.cas.mcmaster.ca/cas/0files/CAS_Graduate_Program_Handbook_2025-2026.pdf.
 
 (The contents of the Handbook are binding regulations.)
 
@@ -58,15 +58,15 @@ After the meeting, the supervisor must ensure that the committee meeting report 
 ## Comprehensive examinations
 
 ##### Q: What is a comprehensive examination?
-...***TODO Istvan: two parts (related questions in the next sections)***...
+The comprehensive examination assesses the the candidate's research skills and provides the candidate with useful feedback. It consists of two parts:
+- [Part I](#comps---part-i): assess the candidate's breadth of knowledge and readiness for research in CAS-related fields.
+- [Part II](#comps---part-ii): thesis proposal. The proposal should identify open questions such that answering them requires a significant research contribution and that an answer could lead to improvements in the field of research.
 
 ##### Q: Who can chair the examination?
 The Chair is a member of the supervisory committee (who is not a supervisor) and should be settled ahead of the defense.
 
 ##### Q: Who assigns the Chair?
-...the GCPC chair assigns the comps chair (***TODO check with Jacques: is this true for both Part I and Part II?***)
-...TODO: process -- who should ask the GCPC chair to appoint a chair? ***TODO check with Jacques***
-
+The Comprehensive I chair is nominated by the Chair of the GCPC. (Currently: [Jacques Carette](https://www.eng.mcmaster.ca/cas/faculty/dr-jacques-carette/).) ***[TODO: Jacques validate please]***
 
 ##### Q: What is the role of the chair?
 - The role of the chair is to ensure that the process is followed properly (but also that no one is being overly aggressive in their questions, and that the questioning seems to be thorough; if the student never answers “I don’t know” to a question, it’s probably not thorough enough.) The Chair may ask questions, but is not expected to. It would be improper for the Chair to ask “tough” questions.
@@ -78,10 +78,11 @@ The Chair is a member of the supervisory committee (who is not a supervisor) and
 
 ### Comps - Part I
 
+##### Q: The regulation says that "There is a separate document describing the examination." Where is that document?
+https://www.cas.mcmaster.ca/cas/0files/comps-part-I.pdf
+
 ##### Q: What is the purpose of Part I?
 The purpose is to test student’s “readiness to do research” in their ‘large’ topic. This is meant to be done by asking them to do a literature review around a topic under the same umbrella as their own topic, but separate from it. The supervisory committee as a whole has to approve that the Comp I topic is appropriate [the supervisor doesn’t have to come up with the topic, it can come from anyone on the committee.]
-
-
 
 ##### Q: What happens before the examination?
 - The committee typically gives the students a few papers as a starting point for a literature review. (TODO: review, scoping, or synthesis? Let's discuss this because these terms are ambiguous.)
@@ -97,8 +98,14 @@ The purpose is to test student’s “readiness to do research” in their ‘la
 - The oral report should demonstrate that the student has understood the papers, individually and as a whole, i.e. have done some synthesis.
 
 ##### Q: What are the potential outcomes of the examination?
-Any part of the examination (i.e. report, oral, both) can be failed and repeated. It can only be repeated a single time.
- 
+Any part of the examination (i.e. report, oral, both) can be ***[TODO: Jacques validate please]***
+- passed;
+- passed but with some required course work (with optional minimum grade);
+- retake oral part only, within 2 months;
+- retake comprehensive, within 2 months.
+
+##### Q: How many times can a student retake the examination?
+At most once. In addition, the exam must be completed within the first two years of the program.
 
 ### Comps - Part II (Thesis proposal)
 
@@ -119,7 +126,8 @@ The candidate prepares a thesis proposal.
 - As the examination is supposed to be public, members of the public may also have questions. These are asked at the end, and the chair may limit them to 15 minutes.
 
 ##### Q: What should the written and oral reports demonstrate?
-- The proposal should demonstrate that successful pursuance of the research will yield a substantial contribution to the body of knowledge of Computer Science / Software Engineering.
+The proposal should demonstrate that successful pursuance of the research will yield a substantial contribution to the body of knowledge of Computer Science / Software Engineering.
 
 ##### Q: What are the potential outcomes of the examination?
-***TODO check with Jacques***
+The potential outcomes of the examination are: ***[TODO: Jacques?]***
+- ...
