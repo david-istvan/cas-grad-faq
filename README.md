@@ -28,8 +28,6 @@ The Graduate Student Handbook is an all-in-one guide to helpful information for 
 
 (The contents of the Handbook are binding regulations.)
 
-**TODO: Regarding the Q&A below, it is unclear which of these answers are relevant to which of the degrees (SE/CS, masters/PhD)**
-
 ## Supervisory meetings (Master's (Thesis))
 
 ##### Q: What is a supervisory meeting?
@@ -55,12 +53,12 @@ There is not mandated format. An example template derived from the Faculty's PPT
 ##### Q: What happens after the supervisory meeting?
 After the meeting, the supervisor must ensure that the committee meeting report is filled and submitted to the Graduate Admin of the Department. The report template is available here: https://gs.mcmaster.ca/app/uploads/2020/02/Masters-Supervisory-Committee-Meeting-Report-June-2022.pdf.
 
-## Comprehensive examinations
+## Comprehensive examinations (PhD)
 
 ##### Q: What is a comprehensive examination?
 The comprehensive examination assesses the the candidate's research skills and provides the candidate with useful feedback. It consists of two parts:
 - [Part I](#comps---part-i): assess the candidate's breadth of knowledge and readiness for research in CAS-related fields.
-- [Part II](#comps---part-ii): thesis proposal. The proposal should identify open questions such that answering them requires a significant research contribution and that an answer could lead to improvements in the field of research.
+- [Part II](#comps---part-ii-thesis-proposal): thesis proposal. The proposal should identify open questions such that answering them requires a significant research contribution and that an answer could lead to improvements in the field of research.
 
 ##### Q: Who can chair the examination?
 The Chair is a member of the supervisory committee (who is not a supervisor) and should be settled ahead of the defense.
@@ -69,11 +67,9 @@ The Chair is a member of the supervisory committee (who is not a supervisor) and
 The Comprehensive I chair is nominated by the Chair of the GCPC. (Currently: [Jacques Carette](https://www.eng.mcmaster.ca/cas/faculty/dr-jacques-carette/).) ***[TODO: Jacques validate please]***
 
 ##### Q: What is the role of the chair?
-- The role of the chair is to ensure that the process is followed properly (but also that no one is being overly aggressive in their questions, and that the questioning seems to be thorough; if the student never answers “I don’t know” to a question, it’s probably not thorough enough.) The Chair may ask questions, but is not expected to. It would be improper for the Chair to ask “tough” questions.
+The role of the chair is to ensure that the process is followed properly (but also that no one is being overly aggressive in their questions, and that the questioning seems to be thorough; if the student never answers "I don’t know" to a question, it's probably not thorough enough.) The Chair may ask questions, but is not expected to. It would be improper for the Chair to ask "tough" questions.
 
-***TODO check with Jacques: is this the same as in Part II? Cf. this part here:***
-
-- The role of the chair is to conduct the examination, fill in the paperwork, but also to ask questions (with no restrictions); the usual order of questioning is 1) the ‘other’ member(s) of the supervisory committee, 2) the chair, 3) the supervisor(s). However, the committee can settle on any order they wish, as long as they do it ahead of the examination.
+***TODO check with Jacques: is this the same as in Part II? Cf. this part here: "The role of the chair is to conduct the examination, fill in the paperwork, but also to ask questions (with no restrictions); the usual order of questioning is 1) the ‘other’ member(s) of the supervisory committee, 2) the chair, 3) the supervisor(s). However, the committee can settle on any order they wish, as long as they do it ahead of the examination."***
 
 
 ### Comps - Part I
