@@ -7,7 +7,7 @@ This FAQ is maintained by the Graduate Curriculum and Policy Committee (GCPC). C
 
 ##### Contents
 - [Regulations](#regulations)
-- [Supervisory meetings (Master's (Thesis))](#supervisory-meetings-masters-thesis)
+- [Supervisory meetings (Thesis Master's)](#supervisory-meetings-thesis-masters)
 - [Comprehensive examinations (PhD)](#comprehensive-examinations-phd)
 
 ## Regulations
@@ -28,7 +28,7 @@ The Graduate Student Handbook is an all-in-one guide to helpful information for 
 
 (The contents of the Handbook are binding regulations.)
 
-## Supervisory meetings (Master's (Thesis))
+## Supervisory meetings (Thesis Master's)
 
 ##### Q: What is a supervisory meeting?
 The aim of the supervisory meeting is to ensure that students are meeting their milestones. Supervisory meetings must be scheduled once a year.
