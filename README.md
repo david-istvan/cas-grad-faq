@@ -8,7 +8,7 @@ This FAQ is maintained by the Graduate Curriculum and Policy Committee (GCPC). C
 ##### Contents
 - [Regulations](#regulations)
 - [Supervisory meetings (Master's (Thesis))](#supervisory-meetings-masters)
-- [Comprehensive examinations](#comprehensive-examinations)
+- [Comprehensive examinations (PhD)](#comprehensive-examinations)
 
 ## Regulations
 
