@@ -7,7 +7,7 @@ This FAQ is maintained by the Graduate Curriculum and Policy Committee (GCPC). C
 
 ##### Contents
 - [Regulations](#regulations)
-- [Supervisory meetings (Master's)](#supervisory-meetings-masters)
+- [Supervisory meetings (Master's (Thesis))](#supervisory-meetings-masters)
 - [Comprehensive examinations](#comprehensive-examinations)
 
 ## Regulations
@@ -26,22 +26,31 @@ The current regulations are available here:
 ##### Q: What is the Graduate Student Handbook?
 The Graduate Student Handbook is an all-in-one guide to helpful information for graduate students and other researchers in the Department. It includes department-specific and general information. It is available here: https://www.eng.mcmaster.ca/app/uploads/2024/08/2024-25_CAS_GradHandbook_Useful_Info_Updated.pdf.
 
-**TODO: explain that the grad handbook is binding/contractual**
+(The contents of the Handbook are binding regulations.)
 
 **TODO: Regarding the Q&A below, it is unclear which of these answers are relevant to which of the degrees (SE/CS, masters/PhD)**
 
-## Supervisory meetings (Master's)
+## Supervisory meetings (Master's (Thesis))
 
 ##### Q: What is a supervisory meeting?
 The aim of the supervisory meeting is to ensure that students are meeting their milestones. Supervisory meetings must be scheduled once a year.
 
 ##### Q: What is the typical format of the supervisory meeting?
-Typically, the student gives a brief presentation in which they report the completion of their milestones, the status of research, and plans for the rest of the academic program. Committee member(s) may ask clarifying questions to better assess the progress of the student.
+Typically, the student gives a brief presentation in which they report the completion of their milestones, the status of research, and plans for the rest of the academic program.
+The presentation is *at most* 20 minutes long.
+Committee member(s) may ask clarifying questions to better assess the progress of the student.
+
+##### Q: What is the typical content of the student presentation?
+The typical content includes:
+- milestones achieved in the last year;
+- milestones still to do;
+- problem statement of research;
+- research questions;
+- results achieved
+- detailed plan until graduation.
 
 ##### Q: What is the typical format of the student presentation?
-A useful template is available here: [GradCommitteeMeeting-Template.pptx](GradCommitteeMeeting-Template.pptx).
-**TODO: This template (especially the later parts) is very engineering oriented. Perhaps it would be good to qualify this example**
-
+There is not mandated format. An example template derived from the Faculty's PPT template is available here: [GradCommitteeMeeting-Template.pptx](GradCommitteeMeeting-Template.pptx).
 
 ##### Q: What happens after the supervisory meeting?
 After the meeting, the supervisor must ensure that the committee meeting report is filled and submitted to the Graduate Admin of the Department. The report template is available here: https://gs.mcmaster.ca/app/uploads/2020/02/Masters-Supervisory-Committee-Meeting-Report-June-2022.pdf.
