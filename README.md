@@ -61,16 +61,11 @@ The comprehensive examination assesses the the candidate's research skills and p
 - [Part II](#comps---part-ii-thesis-proposal): thesis proposal. The proposal should identify open questions such that answering them requires a significant research contribution and that an answer could lead to improvements in the field of research.
 
 ##### Q: Who can chair the examination?
-The Chair is a member of the supervisory committee (who is not a supervisor) and should be settled ahead of the defense.
-
-##### Q: Who assigns the Chair?
-The Comprehensive I chair is nominated by the Chair of the GCPC. (Currently: [Dr. Jacques Carette](https://www.eng.mcmaster.ca/cas/faculty/dr-jacques-carette/).) ***[TODO: Jacques validate please]***
+The Part I Chair is external to the committee and is officially nominated by the Chair of the GCPC. (Currently: [Dr. Jacques Carette](https://www.eng.mcmaster.ca/cas/faculty/dr-jacques-carette/).) In practice, the supervisory committee takes care of picking a chair and makes a recommendation to the Chair of the GCPC.
+The Part II Chair is a member of the supervisory committee (who is not a supervisor) and should be settled ahead of the defense. [**TODO: Isn't the defense after the Comps II? Is "defense" the right word to use here? Should it be "ahead of the examination"?**]
 
 ##### Q: What is the role of the chair?
-The role of the chair is to ensure that the process is followed properly (but also that no one is being overly aggressive in their questions, and that the questioning seems to be thorough; if the student never answers "I don’t know" to a question, it's probably not thorough enough.) The Chair may ask questions, but is not expected to. It would be improper for the Chair to ask "tough" questions.
-
-***TODO check with Jacques: is this the same as in Part II? Cf. this part here: "The role of the chair is to conduct the examination, fill in the paperwork, but also to ask questions (with no restrictions); the usual order of questioning is 1) the ‘other’ member(s) of the supervisory committee, 2) the chair, 3) the supervisor(s). However, the committee can settle on any order they wish, as long as they do it ahead of the examination."***
-
+The role of the chair is to ensure that the process is followed properly (but also that no one is being overly aggressive in their questions, and that the questioning seems to be thorough; if the student never answers "I don’t know" to a question, it's probably not thorough enough.) The Chair may ask questions, but is not expected to. It would be improper for the Chair to ask "tough" questions. The role of the chair is very similar in Part I and Part II but in the latter, the Chair is expected to ask questions, even tough ones.
 
 ### Comps - Part I
 
@@ -78,15 +73,15 @@ The role of the chair is to ensure that the process is followed properly (but al
 https://www.cas.mcmaster.ca/cas/0files/comps-part-I.pdf
 
 ##### Q: What is the purpose of Part I?
-The purpose is to test student’s “readiness to do research” in their ‘large’ topic. This is meant to be done by asking them to do a literature review around a topic under the same umbrella as their own topic, but separate from it. The supervisory committee as a whole has to approve that the Comp I topic is appropriate [the supervisor doesn’t have to come up with the topic, it can come from anyone on the committee.]
+The purpose is to test student’s "readiness to do research" in their topic. This is meant to be done by asking them to do a literature review around a topic under the same umbrella as their own topic, but separate from it. The supervisory committee as a whole has to approve that the Comp I topic is appropriate [the supervisor doesn't have to come up with the topic, it can come from anyone on the committee.]
 
 ##### Q: What happens before the examination?
-- The committee typically gives the students a few papers as a starting point for a literature review. (TODO: review, scoping, or synthesis? Let's discuss this because these terms are ambiguous.)
+- The committee typically gives the students a few papers as a starting point for a literature review, scoping, or synthesis. The papers are meant as a *starting point* for a proper literature review and synthesis.
 - The report should be roughly 20 pages long (say, in LIPICS format; LNCS is too short, IEEE / ACM 2 column way too long), not counting references. Appendices are allowed, but committee members do not have to read them.
 
 ##### Q: What is the typical format of the examination?
 - The student presentation is limited to 20 minutes.
-- The committee is within its purview to question the student on the ‘fundamentals’ under the given topic, to ascertain if the student has a solid grounding on which to build on.
+- The committee is within its purview to question the student on the fundamentals under the given topic, to ascertain if the student has a solid grounding on which to build on.
 
 ##### Q: What should the written and oral reports demonstrate?
 - The written report should demonstrate that the student has done a literature search, i.e. has gone beyond the papers given as a starting point.
@@ -94,11 +89,10 @@ The purpose is to test student’s “readiness to do research” in their ‘la
 - The oral report should demonstrate that the student has understood the papers, individually and as a whole, i.e. have done some synthesis.
 
 ##### Q: What are the potential outcomes of the examination?
-Any part of the examination (i.e. report, oral, both) can be ***[TODO: Jacques validate please]***
+Any part of the examination (i.e. report, oral, both) can be
 - passed;
 - passed but with some required course work (with optional minimum grade);
-- retake oral part only, within 2 months;
-- retake comprehensive, within 2 months.
+- retake the failed part(s) within the deadline mandated by the regulations.
 
 ##### Q: How many times can a student retake the examination?
 At most once. In addition, the exam must be completed within the first two years of the program.
@@ -125,5 +119,8 @@ No, there is no need for any results to have been obtained before a part II is d
 The proposal should demonstrate that successful pursuance of the research will yield a substantial contribution to the body of knowledge of Computer Science / Software Engineering.
 
 ##### Q: What are the potential outcomes of the examination?
-The potential outcomes of the examination are: ***[TODO: Jacques?]***
-- ...
+The result of the examination is normally:
+- pass with distinction,
+- pass, or
+- fail.
+In case of failure, the Examination Committee determines whether the student can continue, what actions are needed, and whether re-examination is necessary. The Graduate Curriculum and Policy Committee makes a recommendation to the Department based on the Examination Committee's recommendation. [**TODO: I've put the GCPC here as the recommender but in Jacques' email, it was "The Computer Science Graduate Committee". Was that a typo and is it the GCPC? Or is it the same? Or do we have separate CompSci and SE Grad Committees?**]
