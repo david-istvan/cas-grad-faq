@@ -53,6 +53,15 @@ There is not mandated format. An example template derived from the Faculty's PPT
 ##### Q: What happens after the supervisory meeting?
 After the meeting, the supervisor must ensure that the committee meeting report is filled and submitted to the Graduate Admin of the Department. The report template is available here: https://gs.mcmaster.ca/app/uploads/2020/02/Masters-Supervisory-Committee-Meeting-Report-June-2022.pdf.
 
+## Seminars
+Full-time student are required to attend department seminars as part of their training. Master's students must attend seminars in the first (1) year of their studies; PhD students are required to attend in the first two (2) years of their studies.
+The required minimum number of attended seminars is (i) four or (ii) 50% of seminars in the specific academic year -- whichever number is lower.
+
+The objective of these seminars are the following.
+- Encourage the exchange of ideas and results among students, faculty, and visiting researchers.
+- Broaden graduate student exposure to a variety of research areas (beyond the student’s thesis area), projects, presentation styles and activities.
+- Develop graduate student skills in presentation and discussion of research topics in a public forum.
+
 ## Comprehensive examinations (PhD)
 
 ##### Q: What is a comprehensive examination?
